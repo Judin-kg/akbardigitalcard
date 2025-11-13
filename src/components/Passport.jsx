@@ -82,11 +82,12 @@ export default function AkbarTravelsCard() {
       {/* Profile image floated high like the sample */}
       <div className="at-avatarWrap" aria-hidden="true">
         <div className="at-avatarRing" />
-        <img
-          className="at-avatar"
-          src="/profile.jpg" /* or: src={profileImg} */
-          alt="Profile photo of Ajmal Rahim"
-        />
+       <img
+  className="at-avatar"
+  src="/profile.jpg"
+  alt="Ajmal Rahim"
+/>
+
       </div>
 
       <header className="at-head">
