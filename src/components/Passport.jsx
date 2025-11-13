@@ -5,8 +5,8 @@ import "./Passport.css";
 import html2canvas from "html2canvas"; // npm i html2canvas
 
 export default function AkbarTravelsCard() {
-  const phoneE164 = "+919995579646";
-  const phoneHuman = "+91 99955 79646";
+  const phoneE164 = "+919895103944";
+  const phoneHuman = "+91 8138806572";
   const email = "ajmalrahim.ttp9@gmail.com";
   const website = "https://www.akbartravels.com";
 
