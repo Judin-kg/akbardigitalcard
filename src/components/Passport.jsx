@@ -84,7 +84,7 @@ export default function AkbarTravelsCard() {
         <div className="at-avatarRing" />
         <img
           className="at-avatar"
-          src="/akbar.jpg" /* or: src={profileImg} */
+          src="/profile.jpg" /* or: src={profileImg} */
           alt="Profile photo of Ajmal Rahim"
         />
       </div>
